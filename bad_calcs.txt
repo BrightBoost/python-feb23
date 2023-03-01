@@ -1,0 +1,10 @@
+Calculation failed
+More or less than two numbers are filled in
+Calculation failed
+More or less than two numbers are filled in
+Calculation failed
+could not convert string to float: 'Whoops'
+Calculation failed
+could not convert string to float: ''
+Calculation failed
+could not convert string to float: 'sadadqdwq'
